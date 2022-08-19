@@ -8,10 +8,12 @@ This is my recurrent code for the paper [IncLSTM: Incremental Ensemble LSTM Mode
 # Environment
 
 1. Python v3.7
-2. tensordlow 1.14.0
+2. TensorFlow 1.14.0
 3. scikit-learn 1.0.2
 
+# the latest code in the folder test01
 
+#
 original tips below are for the veryfastkmm code recurrece which coded by [Swarup Chandra]( https://github.com/swarupchandra)
 # Efficient Sampling-Based Kernel Mean Matching
 
