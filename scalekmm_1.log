@@ -1,0 +1,24 @@
+2022-08-10 09:38:58,163 - __main__ - INFO - Starting forestcover.arff
+2022-08-10 09:38:58,554 - __main__ - INFO - Read data forestcover.arff
+2022-08-10 09:38:58,555 - __main__ - INFO - Train Length = 1
+2022-08-10 09:38:58,555 - __main__ - INFO - Test Length = 4
+2022-08-10 09:38:58,555 - __main__ - INFO - Num of features = 54
+2022-08-10 09:38:58,555 - __main__ - INFO - Got training and test data.
+2022-08-10 09:39:07,822 - __main__ - INFO - Starting forestcover.arff
+2022-08-10 09:39:08,213 - __main__ - INFO - Read data forestcover.arff
+2022-08-10 09:39:08,214 - __main__ - INFO - Train Length = 1
+2022-08-10 09:39:08,214 - __main__ - INFO - Test Length = 9
+2022-08-10 09:39:08,215 - __main__ - INFO - Num of features = 54
+2022-08-10 09:39:08,215 - __main__ - INFO - Got training and test data.
+2022-08-10 09:39:17,486 - __main__ - INFO - Starting forestcover.arff
+2022-08-10 09:39:17,882 - __main__ - INFO - Read data forestcover.arff
+2022-08-10 09:39:17,884 - __main__ - INFO - Train Length = 1
+2022-08-10 09:39:17,884 - __main__ - INFO - Test Length = 19
+2022-08-10 09:39:17,885 - __main__ - INFO - Num of features = 54
+2022-08-10 09:39:17,885 - __main__ - INFO - Got training and test data.
+2022-08-11 08:03:13,626 - __main__ - INFO - Starting forestcover.arff
+2022-08-11 08:03:14,004 - __main__ - INFO - Read data forestcover.arff
+2022-08-11 08:03:14,005 - __main__ - INFO - Train Length = 1
+2022-08-11 08:03:14,005 - __main__ - INFO - Test Length = 19
+2022-08-11 08:03:14,005 - __main__ - INFO - Num of features = 54
+2022-08-11 08:03:14,005 - __main__ - INFO - Got training and test data.

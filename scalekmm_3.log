@@ -1,0 +1,7 @@
+2022-08-11 08:03:38,507 - __main__ - INFO - Starting forestcover.arff
+2022-08-11 08:03:38,894 - __main__ - INFO - Read data forestcover.arff
+2022-08-11 08:03:38,895 - __main__ - INFO - Train Length = 3
+2022-08-11 08:03:38,895 - __main__ - INFO - Test Length = 17
+2022-08-11 08:03:38,895 - __main__ - INFO - Num of features = 54
+2022-08-11 08:03:38,896 - __main__ - INFO - Got training and test data.
+2022-08-11 08:03:38,938 - __main__ - INFO - Full  : Time = 0.007001638412475586; NMSE = 0.20870588720863512
